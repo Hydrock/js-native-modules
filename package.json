@@ -1,0 +1,19 @@
+{
+  "name": "js-native-modules",
+  "version": "1.0.0",
+  "description": "js-native-modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydrock/js-native-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hydrock/js-native-modules/issues"
+  },
+  "homepage": "https://github.com/Hydrock/js-native-modules#readme"
+}
